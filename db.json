@@ -1,0 +1,43 @@
+{
+    "criminals": [
+      {
+        "id": 1,
+        "name": "John Doe",
+        "national_id": "1234567890",
+        "age": 30,
+        "address": "123 Street, Nairobi",
+        "offenses": [
+          {
+            "crime": "Robbery",
+            "date": "2023-04-15",
+            "status": "Court Pending"
+          }
+        ],
+        "image": "https://example.com/johndoe.jpg"
+      },
+      {
+        "id": 2,
+        "name": "Jane Smith",
+        "national_id": "0987654321",
+        "age": 28,
+        "address": "456 Road, Mombasa",
+        "offenses": [
+          {
+            "crime": "Assault",
+            "date": "2022-08-20",
+            "status": "Sentenced"
+          }
+        ],
+        "image": "https://example.com/janesmith.jpg"
+      }
+    ],
+    "officers": [
+      {
+        "id": 1,
+        "name": "Officer A",
+        "username": "officerA",
+        "password": "securepassword"
+      }
+    ]
+  }
+  
